@@ -12,6 +12,6 @@
 ```
 
 Once the Expo server is stareted, open the ios simulator and a following demonstration is shown:    
-![Image](https://github.com/ec500-software-engineering/case-study-qzhizhou/blob/master/HelloApp.png | 250*750)
+![Image](https://github.com/ec500-software-engineering/case-study-qzhizhou/blob/master/HelloApp.png | 250X750)
 
 
