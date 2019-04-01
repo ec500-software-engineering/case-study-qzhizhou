@@ -5,4 +5,10 @@
 
 ## Demonstration
 
+```
+  npm install -g expo-cli     
+  cd HelloApp   
+  npm start
+```
+
 
