@@ -12,7 +12,7 @@
 ```
 
 Once the Expo server is stareted, open the ios simulator and a following demonstration is shown:
-<img src="https://github.com/ec500-software-engineering/case-study-qzhizhou/blob/master/HelloApp.png" width="250"/>
-![Image](https://github.com/ec500-software-engineering/case-study-qzhizhou/blob/master/HelloApp.png)
+<img src="https://github.com/ec500-software-engineering/case-study-qzhizhou/blob/master/HelloApp.png" width="400"/>
+
 
 
