@@ -11,4 +11,7 @@
   npm start
 ```
 
+Once the Expo server is stareted, open the ios simulator and a following demonstration is shown:    
+![Image]()
+
 
